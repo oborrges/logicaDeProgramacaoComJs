@@ -7,7 +7,12 @@
 1. identifique oque você já sabe!
 2. Quebre o grande problema em problemas menores!
 
-{**EXERCÍCIO 01**
+{
+  **EXERCÍCIO 01**
+
+  Pergunte o nome do usuário e escreva a mensagem:
+  "Olá, [nome do usuário]"
+  
 *Oque estou aprendendo de farramentas do JS?*
 
 [✔] Executar funções
